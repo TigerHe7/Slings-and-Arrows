@@ -1,0 +1,11 @@
+Slings and Arrows is a two player competitive game in which both have the objective of eliminating the other. 
+This is done by shooting arrows and throwing rocks at the other player untill they run out of health. 
+Rocks always move in a straight path when they are fired, but arrows will curve depending on how fast the payer is moving!
+Player 1 Controls : Player 2 Controls
+move left = 'a'   : move left = 'left arrow'
+move right = 'd'  : move right = 'right arrow'
+shoot rock = 'w'  : shoot rock = 'up arrow'
+shoot arrow = 's' : shoot arrow 'down arrow'
+Good Luck and Have Fun!
+
+To play, run the executable named "SlingsAndArrows"
